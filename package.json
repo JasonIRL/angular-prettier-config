@@ -1,0 +1,21 @@
+{
+    "name": "@jasonirl/angular-prettier-config",
+    "description": "A Prettier Config for Angular",
+    "version": "1.0.0",
+    "author": {
+      "name": "JasonIRL",
+      "email": "JasonIRL@users.noreply.github.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/JasonIRL/angular-prettier-config.git"
+    },
+    "keywords": [
+      "prettier"
+    ],
+    "main": "index.js",
+    "peerDependencies": {
+      "prettier": "^2.4.1"
+    }
+  }
